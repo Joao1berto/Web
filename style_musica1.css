@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Noto%20Sans%20Khmer:700');
+.bloco_da_musica{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 89rem;
+    height: 60rem;
+    border-radius: 10%;
+    justify-content: start;
+    background-color: #151515;
+    margin: 2rem, 2rem, 2rem, 2rem;
+}
+
+.especificacoes_bloco_da_musica{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.informacoes_musica{
+    text-align: center;
+    color: white;
+    font-family: 'Noto Sans Khmer';
+}
+
+.estrelas_media img{
+    width: 10rem;
+    height: 2rem;
+}
+
+.avalie{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 10%;
+    background-color: #292929;
+}
+
+.especificacoes{
+    color: white;
+    font-family: 'Noto Sans Khmer';
+    padding-left: 5rem;
+}
+
+.media_site{
+    color: white;
+    font-family: 'Noto Sans Khmer';
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+}

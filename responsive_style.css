@@ -1,0 +1,35 @@
+@media(max-width: 800px){
+    .mais_ouvidas {
+        display: flex;
+        flex-direction: column;    
+    }
+    .musica1 img{
+        padding-left: 18rem;
+    }
+    .musica2 img{
+        padding-left: 18rem;
+    }
+    .musica3 img{
+        padding-left: 18rem;
+    }
+    header {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .informacoesmusica1{
+        padding-left: 5rem;
+    }
+    .informacoesmusica2{
+        padding-left: 5rem;
+    }
+    .informacoesmusica3{
+        padding-left: 5rem;
+    }
+    .blocos_laterais{
+        display: flex;
+        flex-direction: row;
+    }
+    .bloco3{
+        height: 30rem;
+    }
+}
